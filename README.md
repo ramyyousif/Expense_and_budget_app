@@ -6,4 +6,4 @@ The user can:
 - View, update, delete and set a budget on any category,
 - View, update, delete, set financial goals and view their progress towards said financial goal depending on their total income and expenses.
 This data is then stored and updated on a database using SQL.
-.
+
