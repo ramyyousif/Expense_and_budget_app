@@ -7,7 +7,7 @@
 # - View, update, delete, set financial goals and view their progress towards said financial goal
 # depending on their total income and expenses.
 # This data is then stored and updated on a database using SQL.
-
+.
 
 # Importing sqlite3.
 import sqlite3
