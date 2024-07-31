@@ -764,8 +764,3 @@ def delete_financial_goal():
         db.close()
 
 
-# Program Start.
-print('\n- Welcome to the Expense and Budget Tracker App!')
-print('- When using the app, assume the currency of your choice.')
-print("- Stars '*' represent quick views for total incomes, expenses, goals, etc.")
-main()
